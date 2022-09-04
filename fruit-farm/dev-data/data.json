@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "productName": "Apple",
+    "image": "🍎",
+    "from": "Kashmir",
+    "nutrients": "Vitamin C, Vitamin E",
+    "quantity": "5🍎",
+    "price": "200",
+    "organic": true,
+    "description": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."
+  },
+
+  {
+    "id": 1,
+    "productName": "Green Apple",
+    "image": "🍏",
+    "from": "South Africa",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "5🍏",
+    "price": "350",
+    "organic": true,
+    "description": "Green apples are light green in colour and have crisp and juicy white flesh, which has a tart taste compared to red apples. Green apple has its share of die-hard fans who relish it as a snack and in recipes like salads."
+  },
+
+  {
+    "id": 2,
+    "productName": "Orange",
+    "image": "🍊",
+    "from": "Nagpur",
+    "nutrients": "Vitamin C",
+    "quantity": "5🍊",
+    "price": "200",
+    "organic": true,
+    "description": "The orange is a usually round or oval citrus; its rind and flesh are generally orange, except the varieties of red pulp. The edible part of the orange is the flesh, consumed in fresh or in juice. The orange is also used to make stewed fruit, jams, for consumption as dehydrated fruit."
+  },
+
+  {
+    "id": 3,
+    "productName": "Banana",
+    "image": "🍌",
+    "from": "Andhra Pradesh",
+    "nutrients": "Vitamin B6, Vitamin C",
+    "quantity": "8🍌",
+    "price": "140",
+    "organic": true,
+    "description": "The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow upward in clusters near the top of the plant."
+  },
+
+  {
+    "id": 4,
+    "productName": "Grapes",
+    "image": "🍇",
+    "from": "Nashik",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "5🍇",
+    "price": "180",
+    "organic": true,
+    "description": "Grapes are fleshy, rounded fruits that grow in clusters made up of many fruits of greenish, yellowish or purple skin. The pulp is juicy and sweet, and it contain several seeds or pips. It is a well-known fruit; it is eaten raw, although it is mainly used for making wine."
+  },
+
+  {
+    "id": 5,
+    "productName": "Mangoes",
+    "image": "🥭",
+    "from": "Ratnagiri",
+    "nutrients": "Vitamin C",
+    "quantity": "5🥭",
+    "price": "300",
+    "organic": false,
+    "description": "The fruit varies greatly in size and character. Its form is oval, round, heart-shaped, kidney-shaped, or long and slender. The smallest mangoes are no larger than plums, while others may weigh 1.8 to 2.3 kg (4 to 5 pounds). Some varieties are vividly coloured with shades of red and yellow, while others are dull green."
+  },
+
+  {
+    "id": 6,
+    "productName": "Pear",
+    "image": "🍐",
+    "from": "Jammu & Kashmir",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "5🍐",
+    "price": "250",
+    "organic": true,
+    "description": "Pear fruits are generally sweeter and of softer texture than apples and are distinguished by the presence of hard cells in the flesh, the so-called grit, or stone cells. In general, pear fruits are elongate, being narrow at the stem end and broader at the opposite end."
+  },
+
+  {
+    "id": 7,
+    "productName": "Pineapple",
+    "image": "🍍",
+    "from": "Meghalaya",
+    "nutrients": "Vitamin C",
+    "quantity": "5🍍",
+    "price": "450",
+    "organic": false,
+    "description": "The fruit varies greatly in size and character. Its form is oval, round, heart-shaped, kidney-shaped, or long and slender. The smallest mangoes are no larger than plums, while others may weigh 1.8 to 2.3 kg (4 to 5 pounds). Some varieties are vividly coloured with shades of red and yellow, while others are dull green."
+  }
+]
